@@ -1,0 +1,4 @@
+{
+    "intent_type": "world.hello.intent",
+    "utterance": "hi"
+}
